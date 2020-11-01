@@ -6,7 +6,7 @@ To run the project you need to do the following steps
 
 * [INITIALIZE SUBMODULES]
 
-**Service Tasks
+**Service Tasks**
 * cd tasksApi
 * yarn install o npm install
 * import the db with the query todoList_tasks.sql
@@ -15,7 +15,7 @@ To run the project you need to do the following steps
 * yarn start o nmp run start
 
 
-**Service Users
+**Service Users**
 * cd usersApi
 * yarn install o npm install
 * import the db with the query todoList_users.sql
@@ -24,7 +24,7 @@ To run the project you need to do the following steps
 * yarn start o nmp run start
 
 
-**App
+**App**
 * cd todoListApp
 * yarn install o npm install
 * update the .env file with the apis configuration
