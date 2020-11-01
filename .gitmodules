@@ -1,0 +1,9 @@
+[submodule "todoListApp"]
+	path = todoListApp
+	url = https://github.com/eryoher/todoListApp.git
+[submodule "taskApi"]
+	path = taskApi
+	url = https://github.com/eryoher/taskApi.git
+[submodule "usersApi"]
+	path = usersApi
+	url = https://github.com/eryoher/usersApi.git
